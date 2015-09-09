@@ -1,0 +1,40 @@
+E:\subject\projects\god`s eye\bin\Debug\Emgu.CV.xml
+E:\subject\projects\god`s eye\bin\Debug\Emgu.CV.UI.xml
+E:\subject\projects\god`s eye\bin\Debug\Emgu.Util.xml
+E:\subject\projects\god`s eye\obj\x86\Debug\MultiFaceRec.edit.resources
+E:\subject\projects\god`s eye\obj\x86\Debug\MultiFaceRec.info.resources
+E:\subject\projects\god`s eye\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\subject\projects\god`s eye\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\subject\projects\god`s eye\obj\x86\Debug\MultiFaceRec.splash.resources
+E:\subject\projects\god`s eye\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+E:\subject\projects\god`s eye\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+E:\subject\projects\god`s eye\bin\Debug\hawk eye.exe.config
+E:\subject\projects\god`s eye\bin\Debug\hawk eye.exe.manifest
+E:\subject\projects\god`s eye\bin\Debug\hawk eye.application
+E:\subject\projects\god`s eye\bin\Debug\hawk eye.exe
+E:\subject\projects\god`s eye\bin\Debug\hawk eye.pdb
+E:\subject\projects\god`s eye\obj\x86\Debug\hawk eye.exe.manifest
+E:\subject\projects\god`s eye\obj\x86\Debug\hawk eye.application
+E:\subject\projects\god`s eye\obj\x86\Debug\hawk eye.exe
+E:\subject\projects\god`s eye\obj\x86\Debug\hawk eye.pdb
+E:\subject\projects\god`s eye\obj\x86\Debug\MultiFaceRec.name.resources
+E:\subject\projects\vision\bin\Debug\hawk eye.exe.config
+E:\subject\projects\vision\bin\Debug\hawk eye.exe.manifest
+E:\subject\projects\vision\bin\Debug\hawk eye.application
+E:\subject\projects\vision\bin\Debug\hawk eye.exe
+E:\subject\projects\vision\bin\Debug\hawk eye.pdb
+E:\subject\projects\vision\bin\Debug\Emgu.CV.xml
+E:\subject\projects\vision\bin\Debug\Emgu.CV.UI.xml
+E:\subject\projects\vision\bin\Debug\Emgu.Util.xml
+E:\subject\projects\vision\obj\x86\Debug\MultiFaceRec.csprojResolveAssemblyReference.cache
+E:\subject\projects\vision\obj\x86\Debug\MultiFaceRec.edit.resources
+E:\subject\projects\vision\obj\x86\Debug\MultiFaceRec.info.resources
+E:\subject\projects\vision\obj\x86\Debug\MultiFaceRec.FrmPrincipal.resources
+E:\subject\projects\vision\obj\x86\Debug\MultiFaceRec.name.resources
+E:\subject\projects\vision\obj\x86\Debug\MultiFaceRec.Properties.Resources.resources
+E:\subject\projects\vision\obj\x86\Debug\MultiFaceRec.splash.resources
+E:\subject\projects\vision\obj\x86\Debug\MultiFaceRec.csproj.GenerateResource.Cache
+E:\subject\projects\vision\obj\x86\Debug\hawk eye.exe.manifest
+E:\subject\projects\vision\obj\x86\Debug\hawk eye.application
+E:\subject\projects\vision\obj\x86\Debug\hawk eye.exe
+E:\subject\projects\vision\obj\x86\Debug\hawk eye.pdb

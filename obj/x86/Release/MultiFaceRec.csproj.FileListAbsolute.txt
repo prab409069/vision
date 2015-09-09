@@ -1,0 +1,8 @@
+E:\subject\projects\god`s eye\obj\x86\Release\MultiFaceRec.edit.resources
+E:\subject\projects\god`s eye\obj\x86\Release\MultiFaceRec.info.resources
+E:\subject\projects\god`s eye\obj\x86\Release\MultiFaceRec.FrmPrincipal.resources
+E:\subject\projects\god`s eye\obj\x86\Release\MultiFaceRec.Properties.Resources.resources
+E:\subject\projects\god`s eye\obj\x86\Release\MultiFaceRec.splash.resources
+E:\subject\projects\god`s eye\obj\x86\Release\MultiFaceRec.csproj.GenerateResource.Cache
+E:\subject\projects\god`s eye\obj\x86\Release\MultiFaceRec.csprojResolveAssemblyReference.cache
+E:\subject\projects\god`s eye\obj\x86\Release\MultiFaceRec.name.resources
